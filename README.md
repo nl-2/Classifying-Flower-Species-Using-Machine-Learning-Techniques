@@ -27,25 +27,28 @@ Check out the live app here:
 
 ### Prerequisites
 
-- Python 3.7+
-- pip (Python package installer)
+- **Python 3.7+**
+- **pip** (Python package installer)
 
 ### Installation and Setup
 
 1. Clone this repository:
-        git clone https://github.com/nl-2/iris-classification-app.git
+    ```bash
+    git clone https://github.com/nl-2/iris-classification-app.git
     cd iris-classification-app
-    
+    ```
 
 2. Install the necessary dependencies:
-        pip install -r requirements.txt
-    
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 3. Run the Streamlit app:
-        streamlit run streamlit_app.py
-    
+    ```bash
+    streamlit run streamlit_app.py
+    ```
 
-4. Open a browser and go to http://localhost:8501 to view the app.
+4. Open a browser and go to `http://localhost:8501` to view the app.
 
 ---
 
